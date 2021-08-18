@@ -1,0 +1,12 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+.bg-decor {
+    background-image: url("../images/crew.jpg");
+    background-position: 0% 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.opacity-85 {
+    opacity: 0.85;
+}
